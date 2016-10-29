@@ -1,9 +1,9 @@
 // LinkList.cpp
 // Oscar Ortiz
 
-#include "LinkList.h"
+//#include "LinkList.h"
 
-namespace linklist_namespace
-{
-	
-}
+//namespace linklist_namespace
+//{
+//	
+//}

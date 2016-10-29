@@ -111,16 +111,20 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Course.cpp" />
+    <ClCompile Include="CourseNode.cpp" />
     <ClCompile Include="LinkList.cpp" />
     <ClCompile Include="Main.cpp" />
-    <ClCompile Include="Node.cpp" />
     <ClCompile Include="Student.cpp" />
+    <ClCompile Include="StudentNode.cpp" />
+    <ClCompile Include="Tools.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Course.h" />
+    <ClInclude Include="CourseNode.h" />
     <ClInclude Include="LinkList.h" />
-    <ClInclude Include="Node.h" />
     <ClInclude Include="Student.h" />
+    <ClInclude Include="StudentNode.h" />
+    <ClInclude Include="Tools.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
