@@ -7,4 +7,12 @@ namespace student_namespace
 		this->idNumber	= idNumber;
 		this->name		= name;
 	}
+	void Student::setIdNumber(const int & idNumber)
+	{
+		this->idNumber = idNumber;
+	}
+	void Student::setName(const std::string name)
+	{
+		this->name = name;
+	}
 }
